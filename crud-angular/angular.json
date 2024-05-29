@@ -28,7 +28,7 @@
             "assets": [
               {
                 "glob": "**/*",
-                "input": "projects/crud-angular/public/*"
+                "input": "public"
               }
             ],
             "styles": [
